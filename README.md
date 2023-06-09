@@ -3,7 +3,7 @@ Nov2011.swf - November's Penguin Style Catalog
 
 September2008Costumes.swf - September's Costume Trunk Catalog
 
-Furn.swf - September's Better Igloo Catalog
+FurnDecember2013.swf - December's Better Igloo Catalog
 
 # Items
 ClothingPaper4033.swf - Black Belt Display
@@ -21,15 +21,13 @@ RoomsDojo.swf - In Dojo
 RoomsDojoext2008.swf - Outside Dojo
 
 # Startscreens
-LoginAdopt_black - Startscreen "Adopt-a-Black-Puffle"
-
-LoginExploreMore.swf - Startscreen "Explore More!"
+LoginCardJitsuWater - Startscreen "CardJitsuWater"
 
 # Parties
 Code "FF" - Fall Fair swfs! (Music221.swf is the music for the fall fair! Games don't work also.)
 
 # Credits
-Tech Nerds, Subscribe on YT.
+Subscribe To Welcome To Kubra Vlogs.
 
 # How to Use
 Part of https://cppscreator.xyz/
